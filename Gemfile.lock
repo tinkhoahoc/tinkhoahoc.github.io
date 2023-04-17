@@ -76,8 +76,6 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   rouge
-  _capitalize_all
-	
 
 BUNDLED WITH
    2.0.1
