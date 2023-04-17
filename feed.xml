@@ -1,127 +1,30 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lumina</title>
-    <description>Nuôi dưỡng đứa trẻ tò mò trong tôi mỗi ngày</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Apr 2023 21:35:25 +0200</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2023 21:35:25 +0200</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
-    
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts limit:10 %}
       <item>
-        <title>Sinh ra trong nghèo khó hạn chế sự nghiệp khoa học</title>
-        <description>&lt;p&gt;Kiến thức chuyên môn chưa bao giờ là đủ để đi trên con đường khoa học chuyên nghiệp. Khi bạn sinh ra trong hoàn cảnh khó khăn về tài chính và văn hóa, việc giao tiếp và xây dựng mối quan hệ trong cộng đồng khoa học trở nên vô cùng khó khăn.&lt;/p&gt;
-
-&lt;p&gt;Tuy nhiên, không phải ai cũng có được sự tự tin để kể ra câu chuyện của mình như Haili Hu - một nhà khoa học gốc Trung Quốc ở Hà Lan. Trên tạp chí Science, cô đã chia sẻ về những khó khăn mà cô phải đối mặt khi bước vào thế giới khoa học chuyên nghiệp.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Thông minh là chưa đủ.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Người ta nói chuyện về chính trị, triết học và văn hóa. Gia đình tôi không bao giờ trò chuyện về những vấn đề này.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Cô cảm thấy không tự tin và không cảm thấy mình là một phần của cuộc chơi. Dù có sự trợ giúp của cấp trên và cảm giác tiêu cực được giảm bớt đi phần nào nhưng vấn đề vẫn còn đó. Cô nhận ra rằng nền tảng gia đình và văn hóa đã ảnh hưởng không tốt đến sự nghiệp của mình nhiều hơn cô nghĩ.&lt;/p&gt;
-
-&lt;p&gt;Liệu khoa học chỉ dành riêng cho những người giàu? Có bao nhiêu câu chuyện tương tự chưa được kể?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hu, H., 2023. &lt;a href=&quot;10.1126/science.caredit.adh5113&quot;&gt;Embracing my past&lt;/a&gt;. Science (New York, NY), 379(6636), pp.1062-1062.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Mon, 17 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/ngheo-kho-va-khoa-hoc/</link>
-        <guid isPermaLink="true">http://localhost:4000/ngheo-kho-va-khoa-hoc/</guid>
-        
-        
-        <category>Chuyện nghề</category>
-        
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
       </item>
-    
-      <item>
-        <title>Lửa và đa dạng sinh học</title>
-        <description>&lt;p&gt;Lửa trong tự nhiên gây cháy rừng và giết chết các loài động vật. Tuy nhiên, điều này là có tác động tích cực với sự đa dạng sinh học của các loài. Lửa cháy tạo ra sự không đồng nhất về môi trường dẫn đến sự khác biệt về môi trường sống của sinh vật. Hệ quả là sự khác biệt trong tiến hóa và dẫn đến việc tạo ra nhiều loài hơn.&lt;/p&gt;
-
-&lt;p&gt;Nhóm tác giả đến từ Mỹ, Tây Ban Nha và Canada đã phân tích dữ liệu toàn cầu về mức độ phong phú của động vật có xương sống trên cạn, mức độ sinh sản, sự xuất hiện của cháy rừng và các yếu tố khác đối với sự phong phú của loài. Đối với các loài chim và động vật có vú, lửa có liên quan tích cực đến tính đa dạng cao và mức độ sinh sản. Các mối quan hệ này ít rõ ràng hơn đối với các loài lưỡng cư.&lt;/p&gt;
-
-&lt;p&gt;Những phát hiện trong nghiên cứu này cho thấy vai trò bị đánh giá thấp của lửa trong việc tạo ra sự phong phú của các loài động vật và bảo tồn tính đa dạng sinh học trên toàn cầu.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://onlinelibrary.wiley.com/cms/asset/d598cfac-3052-49d0-805f-121260250902/ele14177-fig-0002-m.png&quot; alt=&quot;richness&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Moritz, M.A., Batllori, E. and Bolker, B.M., 2023. &lt;a href=&quot;https://doi.org/10.1111/ele.14177&quot;&gt;The role of fire in terrestrial vertebrate richness patterns&lt;/a&gt;. Ecology Letters.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Mon, 17 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/lua-va-da-dang-sinh-hoc/</link>
-        <guid isPermaLink="true">http://localhost:4000/lua-va-da-dang-sinh-hoc/</guid>
-        
-        
-        <category>Sự sống</category>
-        
-      </item>
-    
-      <item>
-        <title>Dấu vết gỗ xác định sự hiện diện của người Viking ở châu Mỹ vào năm 1021</title>
-        <description>&lt;p&gt;Người Viking đã đến châu Mỹ rất lâu trước chuyến thám hiểm xuyên Đại Tây Dương của Columbus. Di chỉ cho thấy sự hiện diện sớm nhất của người Viking được tìm thấy tại L’Anse aux Meadows, Newfoundland, Canada. Tuy nhiên thời điểm cụ thể của sự diện diện này trước đây chưa được xác định chính xác do những hạn chế về kỹ thuật.&lt;/p&gt;
-
-&lt;p&gt;Nghiên cứu Margot Kuitems đã sử dụng phương pháp do phóng xạ C&lt;sup&gt;14&lt;/sup&gt; trong các mảnh gỗ có tại di chỉ này để để tính ra thời điếm chính xác là năm 1021.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.thoughtco.com/thmb/tirK1bPpWK4OwijJLjnB-cfEnZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lanse_aux_meadows-5b5e04a946e0fb00507af979.jpg&quot; alt=&quot;site&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03972-8/MediaObjects/41586_2021_3972_Fig1_HTML.png?as=webp&quot; alt=&quot;data&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Kuitems, M., Wallace, B.L., Lindsay, C., Scifo, A., Doeve, P., Jenkins, K., Lindauer, S., Erdil, P., Ledger, P.M., Forbes, V. and Vermeeren, C., 2022. &lt;a href=&quot;https://doi.org/10.1038/s41586-021-03972-8&quot;&gt;Evidence for European presence in the Americas in AD 1021&lt;/a&gt;. Nature, 601(7893), pp.388-391.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Mon, 17 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/go-giup-xac-dinh-thoi-diem-viking-den-chau-my/</link>
-        <guid isPermaLink="true">http://localhost:4000/go-giup-xac-dinh-thoi-diem-viking-den-chau-my/</guid>
-        
-        
-        <category>Sự sống</category>
-        
-      </item>
-    
-      <item>
-        <title>Robot mắc lỗi, niềm tin tiêu tan!</title>
-        <description>&lt;p&gt;Một nghiên cứu tại Đại học Michigan đã chỉ ra rằng robot có thể gây mất lòng tin của con người sau khi mắc sai lầm. Theo nghiên cứu này, các nhà khoa học đã nghiên cứu bốn chiến lược mà robot có thể sử dụng để khôi phục lại lòng tin: xin lỗi, không nhận lỗi, giải thích lỗi, và hứa hẹn sẽ không mắc lỗi nữa.&lt;/p&gt;
-
-&lt;p&gt;Thí nghiệm được thực hiện trên 240 người trong độ tuổi 22–78 (trung bình là 40). Tỉ lệ nam nữ là 64% và 36%. Thí nghiệm kéo dài từ 15 đến 20 phút và người tham gia được trả thù lao 15$/giờ.&lt;/p&gt;
-
-&lt;p&gt;Trong thí nghiệm, robot hợp tác (cobot) mắc sai lầm và cố gắng sửa chữa bằng một trong những chiến lược nêu trên. Kết quả cho thấy sau ba lần mắc lỗi, không một chiến lược nào có thể khôi phục lại hoàn toàn lòng tin trong đó không nhận lỗi là kém hiệu quả nhất.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lòng tin&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://ars.els-cdn.com/content/image/1-s2.0-S0747563223000092-gr5.jpg&quot; alt=&quot;trustworthiness&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Khả năng hoạt động&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://ars.els-cdn.com/content/image/1-s2.0-S0747563223000092-gr6.jpg&quot; alt=&quot;ability&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tính trung thực&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://ars.els-cdn.com/content/image/1-s2.0-S0747563223000092-gr7.jpg&quot; alt=&quot;integrity&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Esterwood, C. and Robert Jr, L.P., 2023. &lt;a href=&quot;https://doi.org/10.1016/j.chb.2023.107658&quot;&gt;Three Strikes and you are out!: The impacts of multiple human–robot trust violations and repairs on robot trustworthiness&lt;/a&gt;. Computers in Human Behavior, 142, p.107658.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Sun, 16 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/robot-ba-lan-mac-loi-niem-tin-tieu-tan/</link>
-        <guid isPermaLink="true">http://localhost:4000/robot-ba-lan-mac-loi-niem-tin-tieu-tan/</guid>
-        
-        
-        <category>Công nghệ</category>
-        
-      </item>
-    
+    {% endfor %}
   </channel>
 </rss>
