@@ -9,7 +9,7 @@ featured: true
 hidden: true
 ---
 
-Đồ đồng Benin là các tác phẩm nghệ thuật của người Edo (nay thuộc Nigeria) bị người Anh cướp vào năm 1897. Hiện nay chúng được trưng bay ở rất nhiều bảo tàng ở Mỹ và châu Âu. Bằng phương pháp phân tích địa hóa học, nghiên cứu của Tobias B. Skowronek xác định nguồn gốc cùa vật liệu đồng thau trong các tác phẩm này đến từ Đức.
+Đồ đồng Benin là các tác phẩm nghệ thuật của người Edo (nay thuộc Nigeria) bị người Anh cướp vào năm 1897. Các tác phẩm này hiện được trưng bày ở nhiều bảo tàng ở Mỹ và châu Âu. Bằng phương pháp phân tích địa hóa học, nghiên cứu của Tobias B. Skowronek xác định nguồn gốc cùa vật liệu đồng thau trong các tác phẩm này đến từ Đức.
 
 ![manillas](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0283415.g001)
 
