@@ -1,30 +1,34 @@
 ---
 layout: page
-title: Thông tin khoa học mỗi ngày cùng Lumina
+title: Mediumish Template for Jekyll
 permalink: /about
 comments: true
 ---
 
->Scientia vincere tenebras - Khoa học chinh phục bóng tối
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-<p>Càng đọc các nghiên cứu khoa học tôi càng nhận ra mình không biết gì và đây là nơi tôi lưu lại sự ngu dốt của mình. Tôi không có tham vọng đem nghiên cứu đến cho mọi người mà chỉ muốn chia sẻ với các bạn những gì tôi cảm thấy thích thú.</p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<h4>Documentation</h4>
 
-<p>Tôi luôn luôn đọc nghiên cứu gốc và không dựa vào thông tin trung gian của bên thứ ba. Vì vậy việc đôi lúc tôi hiểu sai hay diễn dạt không chính xác là không thể tránh khỏi. Nếu bạn có thời gian, hãy đọc thêm nghiên cứu gốc có thêm thông tin chi tiết và chính xác nhất!</p>
+<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<p>Đừng để đứa trẻ tò mò trong mỗi chúng ta lớn lên!</p>
+<h4>Questions or bug reports?</h4>
 
-
-
+<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
+<h5>Buy me a coffee</h5>
+
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>

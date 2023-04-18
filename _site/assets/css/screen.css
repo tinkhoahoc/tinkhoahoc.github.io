@@ -279,9 +279,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand {
-    font-family: Righteous;
     font-weight: 500;
-    font-size: 30px;
 }
 
 .mediumnavigation .dropdown-menu {
@@ -774,9 +772,9 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 100px;
+        height: 350px;
         border-radius: 0;
-        background-image: url(https://images.unsplash.com/photo-1534777410147-084a460870fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80);
+        background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
 
@@ -794,7 +792,7 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(https://images.unsplash.com/photo-1534777410147-084a460870fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80);
+    background-image: url(../images/jumbotron.jpg);
     background-size: cover;
 }
 
@@ -865,7 +863,7 @@ iframe {
 .spoiler:after {
     position: absolute;
     opacity: 0;
-    content: 'Bấm vào đây để hiện ra';
+    content: 'Click to reveal spoiler';
     top: 45%;
     left: calc(50% - 100px);
     text-shadow: none;
@@ -901,4 +899,3 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-

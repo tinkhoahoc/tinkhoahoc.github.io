@@ -16,7 +16,7 @@
 
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
-<script charset="UTF-8" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
 </head>
 
@@ -49,7 +49,7 @@ ga('send', 'pageview');
 
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-    {{ site.name }}
+    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
 
@@ -68,33 +68,30 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Trang chủ</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
-
-                {% assign categories_list = site.categories %}
-                {% if categories_list.first[0] == null %}
-                    {% for category in categories_list %}
-                        <li class="nav-item">
-                        <a class="nav-link" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' | slugify: "ascii"}}">{{ category | camelcase }}</a>
-                        </li>
-                    {% endfor %}
-                {% else %}
-                    {% for category in categories_list %}
-                        <li class="nav-item">
-                        <a class="nav-link" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' | slugify: "ascii"}}">{{ category[0] | camelcase }}</a>
-                        </li>
-                    {% endfor %}
-                {% endif %}
-                {% assign categories_list = nil %}
-
-
-
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">{{site.title}} là gì?</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
-                 {% include search-lunr.html %}
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
+                </li>
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
+                </li>
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
+                </li>
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
+                </li>
+
+                {% include search-lunr.html %}
 
             </ul>
 
@@ -113,7 +110,12 @@ ga('send', 'pageview');
 
 <!-- Site Title
 ================================================== -->
-
+<div class="mainheading">
+    <h1 class="sitetitle">{{ site.name }}</h1>
+    <p class="lead">
+        {{ site.description }}
+    </p>
+</div>
 
 <!-- Content
 ================================================== -->
@@ -124,20 +126,20 @@ ga('send', 'pageview');
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
 ================================================== -->
-<!-- <div class="alertbar">
+<div class="alertbar">
 	<div class="container text-center">
-		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Bạn có muốn nhận <b>thông báo</b> khi có bài biết mới? Hãy để lại địa chỉ email.</span>
+		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
             <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Đăng ký" name="subscribe" class="heart">
+            <input type="submit" value="Subscribe" name="subscribe" class="heart">
             </div>
         </form>
 	</div>
 </div>
 {% endif %}
     
-</div> -->
+</div>
 
 <!-- Categories Jumbotron
 ================================================== -->
@@ -145,18 +147,18 @@ ga('send', 'pageview');
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
             <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Khám phá thêm <span class="d-none d-md-inline">→</span></h2>
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
             </div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' | slugify: "ascii"}}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' | slugify: "ascii"}}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
@@ -186,20 +188,20 @@ ga('send', 'pageview');
 <!-- Scripts
 ================================================== -->
 
-<script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 
-<script charset="UTF-8" src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-<script charset="UTF-8" src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+<script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
 {% if site.lazyimages == "enabled" %}
-<script charset="UTF-8" src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+<script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
 {% endif %}
 
-<script  charset="UTF-8"src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
 
 {% if page.layout == 'post' %}
-<script id="dsq-count-scr" charset="UTF-8" src="//{{site.disqus}}.disqus.com/count.js"></script>
+<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
 </body>

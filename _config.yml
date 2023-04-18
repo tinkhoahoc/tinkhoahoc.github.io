@@ -1,12 +1,12 @@
 # Site
-name: "Lumina"
-title: "Lumina"
-description: "Nuôi dưỡng đứa trẻ tò mò trong tôi mỗi ngày"
+name: "Mediumish"
+title: "Mediumish"
+description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
+baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
-disqus: 'lumenscience'
+disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 8
+paginate: 6
 paginate_path: /page:num/
     
 # Other
