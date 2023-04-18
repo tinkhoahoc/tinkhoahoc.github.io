@@ -17,7 +17,7 @@ Giả thiết cho rằng đồng được lấy từ “manillas”, một loạ
 
 Bằng phương pháp ICP-MS so sánh các yếu tố truy vết và tỷ lệ đồng vị chì của các “manillas” và các tác phẩm Benin, nghiên cứu xác định vủng Rhineland của Đức là nguồn chính của các “manillas” được sử dụng trong thương mại Tây Phi giữa thế kỷ 15 và thế kỷ 18. 
 
-Nghiên cứu chỉ ra sự tham gia của Đức thương mại ở châu Phi vào giai đoạn này trước khi ngành công nghiệp Anh tiếp quản thương mại đồng thay vào cuối thế kỷ 18.
+Nghiên cứu chỉ ra sự tham gia của Đức vào thương mại ở châu Phi từ sớm trước khi ngành công nghiệp Anh tiếp quản thương mại đồng thau vào cuối thế kỷ 18.
 
 > Skowronek, T.B., DeCorse, C.R., Denk, R., Birr, S.D., Kingsley, S., Cook, G.D., Benito Dominguez, A.M., Clifford, B., Barker, A., Otero, J.S. and Moreira, V.C., 2023. [German brass for Benin Bronzes: Geochemical analysis insights into the early Atlantic trade](https://doi.org/10.1371/journal.pone.0283415). Plos one, 18(4), p.e0283415.
 
