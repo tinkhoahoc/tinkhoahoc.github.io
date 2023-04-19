@@ -4,12 +4,28 @@ title: Home
 ---
 
 {% if page.url == "/" %}
+<style>
+    .featured-1{
+        display: flex !important;
+        flex-wrap: wrap !important;
+}
+.featured:nth-child(1){
+    flex: 33.3% !important;
+}
+.featured:nth-child(2){
+    flex: 33.3% !important;
+}
 
+.featured:nth-child(3){
+    flex: 33.4% !important;
+}
+
+</style>
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
     
-    <div class="row">
+    <div class="row featured-1">
 
     {% for post in site.posts %}
 
