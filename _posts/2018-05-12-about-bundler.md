@@ -2,6 +2,7 @@
 layout: post
 title:  "About Bundler"
 author: sal
+tag: Inception
 categories: [ Jekyll ]
 image: assets/images/2.jpg
 rating: 3

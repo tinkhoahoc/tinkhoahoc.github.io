@@ -5,8 +5,8 @@
     <description>Jekyll template, Medium styled, free for bloggers.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Apr 2023 22:08:25 +0100</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2023 22:08:25 +0100</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2023 23:21:25 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2023 23:21:25 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -160,6 +160,8 @@
         <link>http://localhost:4000/first-mass-produced/</link>
         <guid isPermaLink="true">http://localhost:4000/first-mass-produced/</guid>
         
+        <category>Inception</category>
+        
         
         <category>Jekyll</category>
         
@@ -241,6 +243,8 @@
         <link>http://localhost:4000/acumulated-experience/</link>
         <guid isPermaLink="true">http://localhost:4000/acumulated-experience/</guid>
         
+        <category>Inception</category>
+        
         
         <category>Jekyll</category>
         
@@ -264,6 +268,8 @@
         <link>http://localhost:4000/about-bundler/</link>
         <guid isPermaLink="true">http://localhost:4000/about-bundler/</guid>
         
+        <category>Inception</category>
+        
         
         <category>Jekyll</category>
         
@@ -278,6 +284,8 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/we-all-wait-for-summer/</link>
         <guid isPermaLink="true">http://localhost:4000/we-all-wait-for-summer/</guid>
+        
+        <category>Inception</category>
         
         
         <category>Jekyll</category>
@@ -305,6 +313,8 @@
         <link>http://localhost:4000/tree-of-codes/</link>
         <guid isPermaLink="true">http://localhost:4000/tree-of-codes/</guid>
         
+        <category>Inception</category>
+        
         
         <category>Jekyll</category>
         
@@ -329,6 +339,8 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/red-riding/</link>
         <guid isPermaLink="true">http://localhost:4000/red-riding/</guid>
+        
+        <category>Inception</category>
         
         
         <category>Jekyll</category>
@@ -358,6 +370,8 @@
         <link>http://localhost:4000/press-and-education/</link>
         <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
         
+        <category>Inception</category>
+        
         
         <category>Jekyll</category>
         
@@ -380,6 +394,8 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/options-for-creating-new-site-with-jekyll/</link>
         <guid isPermaLink="true">http://localhost:4000/options-for-creating-new-site-with-jekyll/</guid>
+        
+        <category>Inception</category>
         
         
         <category>Jekyll</category>

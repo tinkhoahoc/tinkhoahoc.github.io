@@ -15,7 +15,9 @@ License: https://www.wowthemes.net/freebies-license/
         color: #ffffff;
     }
 }
-
+@media screen and (max-width:500px) {
+    .container {max-width:100%;}
+}
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -154,6 +156,11 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+    
+}
+
+h2.card-title{
+    margin-left: 0 !important;
 }
 
 .listfeaturedtag h4.card-text,
@@ -907,4 +914,10 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+.card-body{
+    padding: 5px 10px 0px 5px !important;
+}
+.card-footer{
+    padding: 0px 10px 0px 10px !important;
 }

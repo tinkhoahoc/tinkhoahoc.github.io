@@ -2,6 +2,7 @@
 layout: post
 title:  "Red Riding Hood"
 author: sal
+tag: Inception
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
