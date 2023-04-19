@@ -11,7 +11,7 @@ post_class: post-template
     <div class="row">
 
         <!-- Post Share -->
-        <div class="col-md-2 pl-0">
+        <div  style="color: white;"class="col-md-2 pl-0">
             {% include share.html %}
         </div>
 
@@ -32,8 +32,8 @@ post_class: post-template
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-                        <span class="author-description">{{ author.description }}</span>
+                        <a target="_blank" style="color: white;  font-family: ff-enzo-web, sans-serif !important;" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                        <span style="color: white;  font-family: ff-enzo-web, sans-serif !important;" class="author-description">{{ author.description }}</span>
                     </div>
                 </div>
                 {% endif %}
@@ -62,13 +62,13 @@ post_class: post-template
             <!-- End Featured Image -->
 
             <!-- Post Content -->
-            <div class="article-post">
+            <div style="color: white;  font-family: ff-enzo-web, sans-serif !important;"  class="article-post">
                 <!-- Toc if any -->
                 {% if page.toc %}
                     {% if page.beforetoc %}
                         <p><em>{{page.beforetoc}}</em></p>
                     {% endif %}
-                    <div class="toc mt-4 mb-4 lead">
+                    <div  style="color: white;  font-family: ff-enzo-web, sans-serif !important;"  class="toc mt-4 mb-4 lead">
                         <h3 class="font-weight-bold">Summary</h3>
                         {% include toc.html html=content %}
                     </div>
@@ -85,9 +85,9 @@ post_class: post-template
             {% endif %}
 
             <!-- Post Date -->
-            <p>
+            <p >
             <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                <span style="color: white;" class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                 {% if page.last_modified_at %}
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
@@ -95,8 +95,8 @@ post_class: post-template
             </p>
 
             <!-- Post Categories -->
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
+            <div  style="color: white;"class="after-post-cats">
+                <ul style="color: white;" class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>
@@ -108,11 +108,11 @@ post_class: post-template
             <!-- End Categories -->
 
             <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
+            <div style="color: white;" class="after-post-tags">
+                <ul style="color: white;" class="tags">
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
-                    <li>
+                    <li style="color: white;">
                         <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
                     {% endfor %}
