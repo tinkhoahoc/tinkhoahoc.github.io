@@ -5,7 +5,7 @@ License: https://www.wowthemes.net/freebies-license/
 */
 @media screen and (max-width:2000px) {
     html {  } /* Increase the font size on higher resolutions */
-    .container {max-width:90%;
+    .container {max-width:95%;
     color: #ffffff;
     }
     body{
@@ -918,6 +918,9 @@ iframe {
 .card-body{
     padding: 5px 10px 0px 5px !important;
 }
+.card-title{
+    font-size: 18px !important;
+}
 .card-footer{
-    padding: 0px 10px 0px 10px !important;
+    padding: 5px 10px 0px 10px !important;
 }
