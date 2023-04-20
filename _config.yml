@@ -1,6 +1,6 @@
 # Site Settings
-name: Lumina|Tin khoa học
-title: Lumina|Tin khoa học
+name: Tin khoa học
+title: Tin khoa học
 description: "Nuôi dưỡng đứa trẻ tò mò trong tôi mỗi ngày"
 tags:
   - blog
@@ -12,7 +12,7 @@ show_hero: true
 menu:
   - title: Trang chủ
     url: /
-  - title: Lumina là gì?
+  - title: Về tôi
     url: /about
 
 email: lumina.science@gmail.com

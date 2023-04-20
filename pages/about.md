@@ -7,7 +7,7 @@ description:
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://images.unsplash.com/photo-1466111015920-82c8b3e3e43c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" alt="Curiosity" width="200">
+<img class="img-rounded" src="https://images.unsplash.com/photo-1466111015920-82c8b3e3e43c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" alt="Curiosity" width="400">
 
 >Scientia vincere tenebras - Khoa học chinh phục bóng tối
 
