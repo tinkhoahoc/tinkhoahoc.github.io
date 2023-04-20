@@ -2,9 +2,9 @@
 date: 2023-04-18
 layout: post
 title: Đồ đồng Benin ở châu Phi được làm từ đồng có nguồn gốc từ Đức
-subtitle: Đồ đồng Benin là các tác phẩm nghệ thuật của người Edo (nay thuộc Nigeria) bị người Anh cướp vào năm 1897. Các tác phẩm này hiện được trưng bày ở nhiều bảo tàng ở Mỹ và châu Âu. Bằng phương pháp phân tích địa hóa học, nghiên cứu của Tobias B. Skowronek xác định nguồn gốc của vật liệu đồng thau trong các tác phẩm này đến từ Đức.
+subtitle: 
 description: >-
-  Đồ đồng Benin là các tác phẩm nghệ thuật của người Edo (nay thuộc Nigeria) bị người Anh cướp vào năm 1897. Các tác phẩm này hiện được trưng bày ở nhiều bảo tàng ở Mỹ và châu Âu. Bằng phương pháp phân tích địa hóa học, nghiên cứu của Tobias B. Skowronek xác định nguồn gốc của vật liệu đồng thau trong các tác phẩm này đến từ Đức.
+  
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Benin_Bronzes.jpg/1920px-Benin_Bronzes.jpg
 category: Khảo cổ

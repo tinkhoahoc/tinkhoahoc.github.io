@@ -4,7 +4,6 @@ layout: post
 title: Dấu vết gỗ xác định sự hiện diện của người Viking ở châu Mỹ vào năm 1021
 subtitle:
 description: >-
-  Người Viking đã đến châu Mỹ rất lâu trước chuyến thám hiểm xuyên Đại Tây Dương của Columbus. Di chỉ cho thấy sự hiện diện sớm nhất của người Viking được tìm thấy tại L'Anse aux Meadows, Newfoundland, Canada. Tuy nhiên thời điểm cụ thể của sự diện diện này trước đây chưa được xác định chính xác do những hạn chế về kỹ thuật.
 image: >-
   https://www.elementar.com/fileadmin/_processed_/4/5/csm_evidence-for-european-presence-in-the-Americas-in-ad-1021_852efe4971.jpg
 category: Khảo cổ

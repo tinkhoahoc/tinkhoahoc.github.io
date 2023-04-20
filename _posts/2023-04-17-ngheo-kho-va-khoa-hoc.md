@@ -4,7 +4,6 @@ layout: post
 title: Sinh ra trong nghèo khó hạn chế sự nghiệp khoa học
 subtitle:
 description: >-
-  Kiến thức chuyên môn chưa bao giờ là đủ để đi trên con đường khoa học chuyên nghiệp. Khi bạn sinh ra trong hoàn cảnh khó khăn về tài chính và văn hóa, việc giao tiếp và xây dựng mối quan hệ trong cộng đồng khoa học trở nên vô cùng khó khăn.
 image: >-
   https://www.science.org/do/10.1126/science.caredit.adh5113/full/_20230310_wl.jpg
 category: Chuyện nghề

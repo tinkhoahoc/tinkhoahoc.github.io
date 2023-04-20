@@ -4,7 +4,6 @@ layout: post
 title: Robot mắc lỗi, niềm tin tiêu tan!
 subtitle:
 description: >-
-  Một nghiên cứu tại Đại học Michigan đã chỉ ra rằng robot có thể gây mất lòng tin của con người sau khi mắc sai lầm. Theo nghiên cứu này, các nhà khoa học đã nghiên cứu bốn chiến lược mà robot có thể sử dụng để khôi phục lại lòng tin: xin lỗi, không nhận lỗi, giải thích lỗi, và hứa hẹn sẽ không mắc lỗi nữa.
 image: >-
   /assets/img/robot-ba-loi.jpg
 category: Công nghệ

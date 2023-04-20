@@ -4,7 +4,6 @@ layout: post
 title: Lửa và đa dạng sinh học
 subtitle:
 description: >-
-  Lửa trong tự nhiên gây cháy rừng và giết chết các loài động vật. Tuy nhiên, điều này là có tác động tích cực với sự đa dạng sinh học của các loài. Lửa cháy tạo ra sự không đồng nhất về môi trường dẫn đến sự khác biệt về môi trường sống của sinh vật. Hệ quả là sự khác biệt trong tiến hóa và dẫn đến việc tạo ra nhiều loài hơn.
  
 image: >-
   https://images.unsplash.com/photo-1615092296061-e2ccfeb2f3d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
