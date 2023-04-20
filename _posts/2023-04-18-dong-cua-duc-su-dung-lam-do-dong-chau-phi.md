@@ -4,7 +4,7 @@ layout: post
 title: Đồ đồng Benin ở châu Phi được làm từ đồng có nguồn gốc từ Đức
 subtitle: 
 description: >-
-  
+  Kỹ thuật phân tích địa hóa học giúp xác định sự tham gia từ sớm của Đức vào thương mại trên Đại Tây Dương.
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Benin_Bronzes.jpg/1920px-Benin_Bronzes.jpg
 category: Khảo cổ

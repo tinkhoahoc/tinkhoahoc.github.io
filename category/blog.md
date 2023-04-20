@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Blog
-slug: blog
+title: Công nghệ
+slug: Công nghệ
 description: A category for general blog posts.
 ---
 

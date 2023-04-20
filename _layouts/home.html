@@ -22,6 +22,11 @@ layout: main
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">
+                <span class="category">
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ featured.category }}">
+                        <span>{{ featured.category }}</span>
+                    </a>
+                </span>
                 <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
                     {% if site.date_format == nil %}
                         {{ featured.date | date: "%d.%m.%Y" }}
@@ -29,8 +34,9 @@ layout: main
                         {{ featured.date | date: site.date_format }}
                     {% endif %}
                 </time>
-                <h1 class="title">{{ featured.title }}</h1>
-                <p class="description">{{ featured.excerpt | strip_html }}</p>
+                <h1 class="title"><a href="{{ featured.url | prepend: site.baseurl }}" >{{ featured.title }}</a></h1>
+
+                <p class="description">{{ featured.description }}</p>
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
                         <svg><use xlink:href="#icon-read"></use></svg>
@@ -80,16 +86,16 @@ layout: main
                                 {{ post.title }}
                             </h2>
                         </a>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                        <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                             <p class="description">{{ post.excerpt | strip_html }}</p>
-                        </a>
-                        <div class="tags">
+                        </a> -->
+                        <!-- <div class="tags">
                             {% for tag in post.tags %}
                                 {% if tag != "" %}
                                     <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
                                 {% endif %}
                             {% endfor %}
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </article>
