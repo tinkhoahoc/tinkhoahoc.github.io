@@ -22,6 +22,15 @@ disqus_username: lumenscience
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
+# Translation
+translations:
+  text:
+    new_post: Bài mới
+    comments: Bình luận
+    share: Chia sẻ
+  button:
+    read_now: Đọc ngay
+
 
 # Social Media Settings
 # Remove the item if you don't need it
