@@ -30,6 +30,13 @@ translations:
     share: Chia sẻ
   button:
     read_now: Đọc ngay
+  pagination:
+    next_page: Trang tiếp theo
+    next_post: Bài tiếp theo
+    of: /
+  recommendation:
+    back_btn: Về đầu trang
+    text: Bạn muốn đọc bài tiếp theo không?
 
 
 # Social Media Settings
