@@ -1,23 +1,38 @@
 ---
-title: "Tags"
-layout: default
-permalink: "/tags.html"
+layout: minimal
 ---
 
-<div class="row listrecent">
-{% for tag in site.tags %}
-<div class="section-title col-md-12 mt-4">
-<h2 id="{{ tag[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ tag[0] }}</span></h2>
+{% assign date_format = site.date_format | default: "%m/%d/%Y" %}
+
+<div class="tags">
+  {% assign tags_list = site.tags %}
+    {% if tags_list.first[0] == null %}
+      {% for tag in tags_list %}
+          <a href="#{{ tag | slugify }}">#{{ tag }}</a>
+      {% endfor %}
+    {% else %}
+      {% for tag in tags_list %}
+          <a href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+      {% endfor %}
+    {% endif %}
+  {% assign tags_list = nil %}
 </div>
-{% assign pages_list = tag[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox.html %}
-{% endif %}
-{% endif %}
+
+{% for tag in site.tags  %}
+  <a class="post-anchor" id="{{ tag[0] | slugify }}"></a>
+  <div class="tag-title">
+    <span>#{{ tag[0] }}</span>
+  </div>
+  <ul class="post-list">
+      {% assign pages_list = tag[1] %}
+      {% for post in pages_list reversed %}
+          {% if post.title != null and post.is_generated != true %}
+            {% if group == null or group == post.group %}
+              <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time></a></li>
+            {% endif %}
+          {% endif %}
+      {% endfor %}
+      {% assign pages_list = nil %}
+      {% assign group = nil %}
+  </ul>
 {% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-{% endfor %}
-</div>
