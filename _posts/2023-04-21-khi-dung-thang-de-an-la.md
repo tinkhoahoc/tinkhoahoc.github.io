@@ -7,10 +7,10 @@ description: >-
   Một con vượn ở Buket Lawang ,Sumatra, Indonesia. Nguồn: Dave59 (Wikipedia)
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Man_of_the_woods.JPG/1024px-Man_of_the_woods.JPG
-category: Khảo cổ
+category: Sự sống
 tags:
+  - sự sống
   - khảo cổ
-  - lịch sử
 author: mranderson
 paginate: true
 ---
