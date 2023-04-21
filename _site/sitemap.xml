@@ -131,6 +131,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/khi-dung-thang-de-an-la/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2023-04-21</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/dong-cua-duc-su-dung-lam-do-dong-chau-phi/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
