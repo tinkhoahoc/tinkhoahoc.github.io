@@ -4,7 +4,8 @@ layout: post
 title: Lửa và đa dạng sinh học
 subtitle:
 description: >-
- 
+  Cháy rừng ở Australua. Nguồn: Matt Palmer (Unsplash).
+  
 image: >-
   https://images.unsplash.com/photo-1615092296061-e2ccfeb2f3d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 category: Sự sống
@@ -22,8 +23,10 @@ Nhóm tác giả đến từ Mỹ, Tây Ban Nha và Canada đã phân tích dữ
 
 Những phát hiện trong nghiên cứu này cho thấy vai trò bị đánh giá thấp của lửa trong việc tạo ra sự phong phú của các loài động vật và bảo tồn tính đa dạng sinh học trên toàn cầu.
 
-
-![richness](https://onlinelibrary.wiley.com/cms/asset/d598cfac-3052-49d0-805f-121260250902/ele14177-fig-0002-m.png)
+<figure>
+<img src="https://onlinelibrary.wiley.com/cms/asset/d598cfac-3052-49d0-805f-121260250902/ele14177-fig-0002-m.png" alt="richness">
+<figcaption>Mức độ đa dạng sinh học. Nguồn: Ecology Letters.</figcaption>
+</figure>
 
 
 > Moritz, M.A., Batllori, E. and Bolker, B.M., 2023. [The role of fire in terrestrial vertebrate richness patterns]( https://doi.org/10.1111/ele.14177). Ecology Letters.

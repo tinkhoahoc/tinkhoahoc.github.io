@@ -4,6 +4,7 @@ layout: post
 title: Robot mắc lỗi, niềm tin tiêu tan!
 subtitle:
 description: >-
+  Robot thực hiện nhiệm vụ trong nghiên cứu. Nguồn: Computers in Human Behavior.
 image: >-
   /assets/img/robot-ba-loi.jpg
 category: Công nghệ

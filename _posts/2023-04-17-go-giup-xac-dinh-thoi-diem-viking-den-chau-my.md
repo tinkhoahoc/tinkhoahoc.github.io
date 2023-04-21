@@ -4,6 +4,7 @@ layout: post
 title: Dấu vết gỗ xác định sự hiện diện của người Viking ở châu Mỹ vào năm 1021
 subtitle:
 description: >-
+  Các mẫu gỗ sử dụng trong nghiên cứu. Ký tự X màu trắng cho biết vị trí lấy mẫu. Nguồn: Kuitems (Nature).
 image: >-
   https://www.elementar.com/fileadmin/_processed_/4/5/csm_evidence-for-european-presence-in-the-Americas-in-ad-1021_852efe4971.jpg
 category: Khảo cổ
@@ -18,9 +19,18 @@ Người Viking đã đến châu Mỹ rất lâu trước chuyến thám hiểm
 
 Nghiên cứu Margot Kuitems đã sử dụng phương pháp do phóng xạ C<sup>14</sup> trong các mảnh gỗ có tại di chỉ này để để tính ra thời điếm chính xác là năm 1021. 
 
-![site](https://www.thoughtco.com/thmb/tirK1bPpWK4OwijJLjnB-cfEnZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lanse_aux_meadows-5b5e04a946e0fb00507af979.jpg)
 
-![data](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03972-8/MediaObjects/41586_2021_3972_Fig1_HTML.png?as=webp)
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Authentic_Viking_recreation.jpg/1920px-Authentic_Viking_recreation.jpg" alt="Authentic Viking recreation">
+  <figcaption>Di chỉ tại Newfounland. Nguồn: Dylan Kereluk (Wikipedia).</figcaption>
+</figure>
+
+
+<figure>
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03972-8/MediaObjects/41586_2021_3972_Fig1_HTML.png?as=webp" alt="Data">
+  <figcaption>Xác định tuổi các mẫu vật. Nguồn: Nature.</figcaption>
+</figure>
+
 
 
 > Kuitems, M., Wallace, B.L., Lindsay, C., Scifo, A., Doeve, P., Jenkins, K., Lindauer, S., Erdil, P., Ledger, P.M., Forbes, V. and Vermeeren, C., 2022. [Evidence for European presence in the Americas in AD 1021](https://doi.org/10.1038/s41586-021-03972-8). Nature, 601(7893), pp.388-391.

@@ -19,10 +19,13 @@
                     <span>{{ minutesText }}</span>
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
-                <p class="post-subtitle">{{ page.subtitle }}</p>
+                <!-- <p class="post-subtitle">{{ page.subtitle }}</p> -->
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                    <figure>
+                      <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                      <figcaption>{{ page.description }}</figcaption>
+                    </figure>
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
@@ -36,7 +39,7 @@
 
             {% if site.two_columns_layout %}
                 <aside class="see-also">
-                    <h2>{{ site.translations.text.see_also | default: "Đọc thêm" }}</h2>
+                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
@@ -46,7 +49,8 @@
                                     {% if post.optimized_image %}
                                         <img src="{{ post.optimized_image }}">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+ 
+                                      <img src="{{ post.image }}">
                                     {% else %}
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}

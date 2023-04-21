@@ -2,9 +2,9 @@
 date: 2023-04-18
 layout: post
 title: Đồ đồng Benin ở châu Phi được làm từ đồng có nguồn gốc từ Đức
-subtitle: 
+subtitle: Kỹ thuật phân tích địa hóa học giúp xác định sự tham gia từ sớm của Đức vào thương mại trên Đại Tây Dương.
 description: >-
-  Kỹ thuật phân tích địa hóa học giúp xác định sự tham gia từ sớm của Đức vào thương mại trên Đại Tây Dương.
+  Đồ đồng Benin trưng bày tại bảo tàng Anh quốc. Nguồn: Warofdreams (Wikipedia)
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Benin_Bronzes.jpg/1920px-Benin_Bronzes.jpg
 category: Khảo cổ
@@ -19,7 +19,11 @@ paginate: true
 
 Giả thiết cho rằng đồng được lấy từ “manillas”, một loại tiền tệ hình móng ngựa sử dụng trong buôn bán nô lệ trên Đại Tây Dương nhưng trước đây chưa có chứng cứ thuyết phục. Nghiên cứu này sử dụng mẫu “manillas” trong các con tàu đắm ở vùng biển Châu Phi, Mỹ và Châu Âu từ thế kỷ 16 đến thế kỷ 19.
 
-![manillas](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0283415.g001)
+<figure>
+  <img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0283415.g001" alt="Manillas">
+  <figcaption>Các mẫu "manillas" sử dụng trong nghiên cứu. Nguồn: Plos one.</figcaption>
+</figure>
+
 
 Bằng phương pháp ICP-MS so sánh các yếu tố truy vết và tỷ lệ đồng vị chì của các “manillas” và các tác phẩm Benin, nghiên cứu xác định vủng Rhineland của Đức là nguồn chính của các “manillas” được sử dụng trong thương mại Tây Phi giữa thế kỷ 15 và thế kỷ 18. 
 
