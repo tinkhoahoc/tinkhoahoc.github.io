@@ -12,6 +12,16 @@ show_hero: true
 menu:
   - title: Trang chủ
     url: /
+    
+  - title: Công nghệ
+    url: /category/Công nghệ
+  - title: Sự sống
+    url: /category/Sự sống
+  - title: Khảo cổ
+    url: /category/Khảo cổ
+  - title: Chuyện nghề
+    url: /category/Chuyện nghề
+
   - title: Về tôi
     url: /about
 
@@ -60,7 +70,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-VZ5SRH32XG"
 language: "vn"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"

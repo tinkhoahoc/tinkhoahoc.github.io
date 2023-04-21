@@ -8,7 +8,15 @@
 
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
+                <p>
+                    <span class="category">
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ page.category }}">
+                        <span>{{ page.category | upcase}}</span>
+                    </a>
+                    </span>
+                </p>
                 <p class="post-info">
+                    
                     {% if page.date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
                         <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
@@ -35,6 +43,13 @@
                 {{ content }}
 
                 {% include pagination-post.html %}
+                <div class="tags">
+                {% for tag in page.tags %}
+                    {% if tag != "" %}
+                        <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                    {% endif %}
+                {% endfor %}
+                </div> 
             </article>
 
             {% if site.two_columns_layout %}
@@ -61,6 +76,7 @@
                     </ul>
                 </aside>
             {% endif %}
+            
 
         </section>
 
