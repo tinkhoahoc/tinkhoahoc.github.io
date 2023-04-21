@@ -2,7 +2,7 @@
 date: 2023-04-17
 layout: post
 title: Lửa và đa dạng sinh học
-subtitle:
+subtitle: Lửa trong tự nhiên như cháy rừng thúc đẩy sự đa dạng trong tiến hóa.
 description: >-
   Cháy rừng ở Australua. Nguồn: Matt Palmer (Unsplash).
   

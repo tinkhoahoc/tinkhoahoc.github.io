@@ -2,7 +2,7 @@
 date: 2023-04-16
 layout: post
 title: Robot mắc lỗi, niềm tin tiêu tan!
-subtitle:
+subtitle: Khi robot mắc lỗi ba lần, mọi chiến lược lấy lại lòng tin đều không có hiệu quả tuyệt đối.
 description: >-
   Robot thực hiện nhiệm vụ trong nghiên cứu. Nguồn: Computers in Human Behavior.
 image: >-

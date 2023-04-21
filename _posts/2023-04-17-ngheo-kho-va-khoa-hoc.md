@@ -2,7 +2,7 @@
 date: 2023-04-17
 layout: post
 title: Sinh ra trong nghèo khó hạn chế sự nghiệp khoa học
-subtitle:
+subtitle: Câu chuyện của một nhà nghên cứu Hà Lan gốc Trung Quốc.
 description: >-
   Minh họa sử dụng trong bài báo đăng trên tạp chí Science.
 image: >-

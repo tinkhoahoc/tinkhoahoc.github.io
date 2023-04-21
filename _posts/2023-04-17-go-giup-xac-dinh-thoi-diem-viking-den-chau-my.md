@@ -2,7 +2,7 @@
 date: 2023-04-17
 layout: post
 title: Dấu vết gỗ xác định sự hiện diện của người Viking ở châu Mỹ vào năm 1021
-subtitle:
+subtitle: Người Viking đến châu Mỹ từ rất sớm nhưng trước đây vẫn chưa xác định được thời gian cụ thể. Nghiên cứu đo phóng xạ carbon cho thấy thời điếm đó cách đây hơn 1000 năm.
 description: >-
   Các mẫu gỗ sử dụng trong nghiên cứu. Ký tự X màu trắng cho biết vị trí lấy mẫu. Nguồn: Kuitems (Nature).
 image: >-
