@@ -2,11 +2,11 @@
 date: 2023-04-21
 layout: post
 title: Các loài vượn lớn tiến hóa đứng thẳng để ăn lá
-subtitle: Nghiên cứu cho thấy sống trong rừng thưa và ăn lá cây có thể khiến vượn có dáng đứng thẳng.
+subtitle: Nghiên cứu cho thấy sống trong rừng thưa và ăn lá cây có thể khiến vượn có dáng đứng thẳng. Kết quả này đi ngược lại với với các quan điểm trước đây cho rằng vượn đứng thẳng để ăn trái cây y.
 description: >-
-  Một con vượn ở Buket Lawang ,Sumatra, Indonesia. Nguồn: Dave59 (Wikipedia)
+  Một con vượn ở công viên Tierpark Berlin. Nguồn: Matthias Trautsch (Wikipedia)
 image: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Man_of_the_woods.JPG/1024px-Man_of_the_woods.JPG
+  https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Weisshandgibbon_tierpark_berlin.jpg/1280px-Weisshandgibbon_tierpark_berlin.jpg
 category: Sự sống
 tags:
   - sự sống
