@@ -131,6 +131,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/con-trung-va-anh-sang-nhan-tao/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2023-04-22</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/vuon-dung-thang-de-an-la/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
