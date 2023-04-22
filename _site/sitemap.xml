@@ -138,14 +138,14 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/lao-hoa-tuoi-tho/</loc>
+            <loc>http://localhost:4000/vuon-dung-thang-de-an-la/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2023-04-21</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/vuon-dung-thang-de-an-la/</loc>
+            <loc>http://localhost:4000/lao-hoa-tuoi-tho/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2023-04-21</lastmod>

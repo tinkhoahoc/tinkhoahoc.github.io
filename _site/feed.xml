@@ -5,8 +5,8 @@
     <description>Nuôi dưỡng đứa trẻ tò mò trong tôi mỗi ngày</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Apr 2023 12:46:59 +0200</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 12:46:59 +0200</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 12:50:54 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 12:50:54 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -24,20 +24,6 @@
       </item>
     
       <item>
-        <title>Vài lý thuyết giải thích tại sao tuổi thọ loài người tăng lên trong lịch sử</title>
-        <description>&lt;p&gt;Lão hóa là một trong những hiện tượng phức tạp nhất trong tự nhiên. Vấn đề này không chỉ liên quan đến sinh học mà còn liên quan đến các vấn đề khác như văn hóa, tâm lý, xã hội và triết học. Nhiều nghiên cứu đã được tiến hành để tìm hiểu sự tiến hóa của quá trình lão hóa và đặc biệt là lão hóa ở con người. Bài viết của Marios Kyriazis tổng hợp các lý thuyết này.&lt;/p&gt; &lt;p&gt;Vào khoảng 30 ngàn năm trước, &lt;em&gt;Homo sapiens&lt;/em&gt; and &lt;em&gt;Homo neanderthalensis&lt;/em&gt; đã đạt tuổi thọ khoảng 30 tuổi. Sau...</description>
-        <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/lao-hoa-tuoi-tho/</link>
-        <guid isPermaLink="true">http://localhost:4000/lao-hoa-tuoi-tho/</guid>
-        
-        <category>sự sống</category>
-        
-        <category>sinh học</category>
-        
-        <category>Sự sống</category>
-      </item>
-    
-      <item>
         <title>Các loài vượn lớn tiến hóa đứng thẳng để ăn lá</title>
         <description>&lt;p&gt;Một nghiên cứu của MacLatchy thực hiện ở Uganda đã chỉ ra rằng quan niệm truyền thống về nguồn gốc của các loài vượn lớn có thể chưa chính xác. Theo quan điểm truyền thống, các loài vượn lớn thời xa xưa đã sống trong rừng rậm nhiệt đới giống như các loài vượn hiện đại. Tuy nhiên, nghiên cứu mới đã khẳng định rằng các loài vượn lớn đầu tiên đã sống trong môi trường rừng mở với đầm lầy cỏ cây, thay vì sống trong rừng rậm.&lt;/p&gt; &lt;p&gt;Các loài vượn lớn này đã tiến hóa đứng thẳng để...</description>
         <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
@@ -47,6 +33,20 @@
         <category>sự sống</category>
         
         <category>khảo cổ</category>
+        
+        <category>Sự sống</category>
+      </item>
+    
+      <item>
+        <title>Vài lý thuyết giải thích tại sao tuổi thọ loài người tăng lên trong lịch sử</title>
+        <description>&lt;p&gt;Lão hóa là một trong những hiện tượng phức tạp nhất trong tự nhiên. Vấn đề này không chỉ liên quan đến sinh học mà còn liên quan đến các vấn đề khác như văn hóa, tâm lý, xã hội và triết học. Nhiều nghiên cứu đã được tiến hành để tìm hiểu sự tiến hóa của quá trình lão hóa và đặc biệt là lão hóa ở con người. Bài viết của Marios Kyriazis tổng hợp các lý thuyết này.&lt;/p&gt; &lt;p&gt;Vào khoảng 30 ngàn năm trước, &lt;em&gt;Homo sapiens&lt;/em&gt; and &lt;em&gt;Homo neanderthalensis&lt;/em&gt; đã đạt tuổi thọ khoảng 30 tuổi. Sau...</description>
+        <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/lao-hoa-tuoi-tho/</link>
+        <guid isPermaLink="true">http://localhost:4000/lao-hoa-tuoi-tho/</guid>
+        
+        <category>sự sống</category>
+        
+        <category>sinh học</category>
         
         <category>Sự sống</category>
       </item>
