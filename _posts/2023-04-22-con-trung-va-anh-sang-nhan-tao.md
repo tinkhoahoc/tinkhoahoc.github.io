@@ -18,7 +18,7 @@ paginate: true
 Trong ngàn năm qua, hình ảnh các loài côn trùng bay đêm quanh lửa và đèn đã gây tò mò cho con người. Nhiều giải thích được đưa ra, từ "định vị mặt trăng" đến "tìm đường thoát ra ánh sáng". Tuy nhiên, vì thiếu dữ liệu bay 3D để kiểm chứng chúng, hành vi kỳ lạ này vẫn chưa được giải thích rõ ràng.
 
 <div class="videoWrapper">
-  <iframe src="https://www.youtube.com/embed/QK0LDMSg-Ks" title="YouTube video player" allowfullscreen ></iframe>
+  <iframe src="https://www.youtube.com/embed/QK0LDMSg-Ks" allowfullscreen ></iframe>
 </div>
 
 

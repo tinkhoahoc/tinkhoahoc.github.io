@@ -5,13 +5,13 @@
     <description>Nuôi dưỡng đứa trẻ tò mò trong tôi mỗi ngày</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Apr 2023 10:17:54 +0200</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 10:17:54 +0200</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 12:46:59 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 12:46:59 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
         <title>Ánh sáng nhân tạo không hấp dẫn côn trùng như ta nghĩ?</title>
-        <description>&lt;p&gt;Trong ngàn năm qua, hình ảnh các loài côn trùng bay đêm quanh lửa và đèn đã gây tò mò cho con người. Nhiều giải thích được đưa ra, từ “định vị mặt trăng” đến “tìm đường thoát ra ánh sáng”. Tuy nhiên, vì thiếu dữ liệu bay 3D để kiểm chứng chúng, hành vi kỳ lạ này vẫn chưa được giải thích rõ ràng.&lt;/p&gt; &lt;div class=&quot;videoWrapper&quot;&gt; &lt;iframe src=&quot;https://www.youtube.com/embed/QK0LDMSg-Ks&quot; title=&quot;YouTube video player&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;p&gt;Nhờ công nghệ bắt chuyển động chính xác cao và kỹ thuật video stereo, nghiên cứu của Samuel T Fabian đã tái hiện được động học...</description>
+        <description>&lt;p&gt;Trong ngàn năm qua, hình ảnh các loài côn trùng bay đêm quanh lửa và đèn đã gây tò mò cho con người. Nhiều giải thích được đưa ra, từ “định vị mặt trăng” đến “tìm đường thoát ra ánh sáng”. Tuy nhiên, vì thiếu dữ liệu bay 3D để kiểm chứng chúng, hành vi kỳ lạ này vẫn chưa được giải thích rõ ràng.&lt;/p&gt; &lt;div class=&quot;videoWrapper&quot;&gt; &lt;iframe src=&quot;https://www.youtube.com/embed/QK0LDMSg-Ks&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;p&gt;Nhờ công nghệ bắt chuyển động chính xác cao và kỹ thuật video stereo, nghiên cứu của Samuel T Fabian đã tái hiện được động học bay 3D của...</description>
         <pubDate>Sat, 22 Apr 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/con-trung-va-anh-sang-nhan-tao/</link>
         <guid isPermaLink="true">http://localhost:4000/con-trung-va-anh-sang-nhan-tao/</guid>
@@ -19,6 +19,20 @@
         <category>sự sống</category>
         
         <category>chuyển động</category>
+        
+        <category>Sự sống</category>
+      </item>
+    
+      <item>
+        <title>Vài lý thuyết giải thích tại sao tuổi thọ loài người tăng lên trong lịch sử</title>
+        <description>&lt;p&gt;Lão hóa là một trong những hiện tượng phức tạp nhất trong tự nhiên. Vấn đề này không chỉ liên quan đến sinh học mà còn liên quan đến các vấn đề khác như văn hóa, tâm lý, xã hội và triết học. Nhiều nghiên cứu đã được tiến hành để tìm hiểu sự tiến hóa của quá trình lão hóa và đặc biệt là lão hóa ở con người. Bài viết của Marios Kyriazis tổng hợp các lý thuyết này.&lt;/p&gt; &lt;p&gt;Vào khoảng 30 ngàn năm trước, &lt;em&gt;Homo sapiens&lt;/em&gt; and &lt;em&gt;Homo neanderthalensis&lt;/em&gt; đã đạt tuổi thọ khoảng 30 tuổi. Sau...</description>
+        <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/lao-hoa-tuoi-tho/</link>
+        <guid isPermaLink="true">http://localhost:4000/lao-hoa-tuoi-tho/</guid>
+        
+        <category>sự sống</category>
+        
+        <category>sinh học</category>
         
         <category>Sự sống</category>
       </item>
