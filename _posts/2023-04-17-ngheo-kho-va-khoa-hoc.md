@@ -23,7 +23,7 @@ Tuy nhiên, không phải ai cũng có được sự tự tin để kể ra câu
 
 > "Thông minh là chưa đủ."
 
-> "Người ta nói chuyện về chính trị, triết học và văn hóa. Gia đình tôi không bao giờ trò chuyện về những vấn đề này.
+> "Người ta nói chuyện về chính trị, triết học và văn hóa. Gia đình tôi không bao giờ trò chuyện về những vấn đề này."
 
 Cô cảm thấy không tự tin và không cảm thấy mình là một phần của cuộc chơi. Dù có sự trợ giúp của cấp trên và cảm giác tiêu cực được giảm bớt đi phần nào nhưng vấn đề vẫn còn đó. Cô nhận ra rằng nền tảng gia đình và văn hóa đã ảnh hưởng không tốt đến sự nghiệp của mình nhiều hơn cô nghĩ.
 
