@@ -17,7 +17,7 @@ paginate: true
 
 Trong ngàn năm qua, hình ảnh các loài côn trùng bay đêm quanh lửa và đèn đã gây tò mò cho con người. Nhiều giải thích được đưa ra, từ "định vị mặt trăng" đến "tìm đường thoát ra ánh sáng". Tuy nhiên, vì thiếu dữ liệu bay 3D để kiểm chứng chúng, hành vi kỳ lạ này vẫn chưa được giải thích rõ ràng.
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/QK0LDMSg-Ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe  width="560" height="315" src="https://www.youtube.com/embed/QK0LDMSg-Ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%;"></iframe>
 
 Nhờ công nghệ bắt chuyển động chính xác cao và kỹ thuật video stereo, nghiên cứu của Samuel T Fabian đã tái hiện được động học bay 3D của các loài côn trùng bay xung quanh ánh sáng nhân tạo. Kết quả của nghiên cứu này làm bất ngờ nhiều người khi côn trùng không bay thẳng vào ánh sáng như ta nghĩ, mà thay vào đó, chúng quay lưng về phía ánh sáng để tạo đợt bay vuông góc với nguồn ánh sáng.
 
