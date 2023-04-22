@@ -23,7 +23,7 @@ Nhờ công nghệ bắt chuyển động chính xác cao và kỹ thuật video
 
 <figure>
   <img src="/assets/img/con-trung-anh-sang-nhan-tao.png">
-  <figcaption>So sánh môi trường sống của các loài vượn lớn theo quan điểm truyền thống (A) và môi trường sống được nghiên cứu tại Uganda (B). Nguồn: Science.</figcaption>
+  <figcaption>Ba chuyển động bay của côn trùng trong thí nghiệm với nguồn sáng nhân tạo. Nguồn: bioRxiv.</figcaption>
 </figure>
 
 Dưới ánh sáng tự nhiên, côn trùng hướng lưng của chúng vào nguồn sáng để duy trì tư thế bay và kiểm soát hướng bay. Nhưng gần ánh sáng nhân tạo, hành vi bay liên tục quanh nguồn ánh sáng và dễ bị mắc kẹt của côn trùng là do hệ thống định hướng của chúng bị nhiễu loạn. Mô hình của nghiên cứu này đã giải thích được tại sao chúng lại tập trung ở nguồn ánh sáng nhân tạo.
