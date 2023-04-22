@@ -2,7 +2,7 @@
 date: 2023-04-22
 layout: post
 title: Ánh sáng nhân tạo không hấp dẫn côn trùng như ta nghĩ?
-subtitle: Nghiên cứu dữ liệu bay 3D của côn trùng cho thấy chúng không bị hấp dẫn bởi ánh sáng nhân tạo và là do hệ thống bị hướng của chúng bị nhiễu loạn.
+subtitle: Nghiên cứu dữ liệu bay 3D của côn trùng cho thấy chúng không bị hấp dẫn bởi ánh sáng nhân tạo mà do hệ thống bị hướng của chúng bị nhiễu loạn.
 description: >-
   Côn trùng bay gần nguồn ánh sáng nhân tạo. Nguồn: Fir0002  (Wikipedia)
 image: >-
