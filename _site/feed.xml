@@ -5,13 +5,13 @@
     <description>Nuôi dưỡng đứa trẻ tò mò trong tôi mỗi ngày</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Apr 2023 09:59:26 +0200</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 09:59:26 +0200</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2023 10:05:48 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2023 10:05:48 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
         <title>Ánh sáng nhân tạo không hấp dẫn côn trùng như ta nghĩ?</title>
-        <description>&lt;p&gt;Trong ngàn năm qua, hình ảnh các loài côn trùng bay đêm quanh lửa và đèn đã gây tò mò cho con người. Nhiều giải thích được đưa ra, từ “định vị mặt trăng” đến “tìm đường thoát ra ánh sáng”. Tuy nhiên, vì thiếu dữ liệu bay 3D để kiểm chứng chúng, hành vi kỳ lạ này vẫn chưa được giải thích rõ ràng.&lt;/p&gt; &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QK0LDMSg-Ks&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot; style=&quot;width: 100%;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;Nhờ công nghệ bắt chuyển động chính xác cao và kỹ thuật video stereo, nghiên cứu của...</description>
+        <description>&lt;p&gt;Trong ngàn năm qua, hình ảnh các loài côn trùng bay đêm quanh lửa và đèn đã gây tò mò cho con người. Nhiều giải thích được đưa ra, từ “định vị mặt trăng” đến “tìm đường thoát ra ánh sáng”. Tuy nhiên, vì thiếu dữ liệu bay 3D để kiểm chứng chúng, hành vi kỳ lạ này vẫn chưa được giải thích rõ ràng.&lt;/p&gt; &lt;div class=&quot;videoWrapper&quot;&gt; &lt;iframe src=&quot;https://www.youtube.com/embed/QK0LDMSg-Ks&quot; title=&quot;YouTube video player&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;p&gt;Nhờ công nghệ bắt chuyển động chính xác cao và kỹ thuật video stereo, nghiên cứu của Samuel T Fabian đã tái hiện được động học...</description>
         <pubDate>Sat, 22 Apr 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/con-trung-va-anh-sang-nhan-tao/</link>
         <guid isPermaLink="true">http://localhost:4000/con-trung-va-anh-sang-nhan-tao/</guid>
