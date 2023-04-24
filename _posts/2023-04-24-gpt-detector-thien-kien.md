@@ -2,7 +2,7 @@
 date: 2023-04-24
 layout: post
 title: Các công cụ nhận dạng văn bản viết bằng ChatGPT có sai số cao
-subtitle: Nghiên cứu của đại học Stanford cho thấy các công cụ kiểm tra xem một bài viết có phải do GPT viết hay không dựa vào độ đa dạng của từ vựng, và bị đánh giá sai khi người viết không sử dụng tiếng Anh như tiếng mẹ đẻ. 
+subtitle: Nghiên cứu của đại học Stanford cho thấy các công cụ kiểm tra xem một bài viết có phải do GPT viết hay không đang dựa vào độ đa dạng của từ vựng, và cho kế quả đánh giá sai khi người viết không sử dụng tiếng Anh như tiếng mẹ đẻ. 
 description: >-
   Minh họa giao diện ChatGPT của OpenAI. Nguồn: Emiliano Vittoriosi (Unplash)
 image: >-
