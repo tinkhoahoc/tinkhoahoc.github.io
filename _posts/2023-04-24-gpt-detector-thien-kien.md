@@ -17,7 +17,7 @@ paginate: true
 
 Hiện nay, khi một bài viết được viết bằng GPT, nhiều công cụ được sử dụng để kiểm tra xem liệu nó có phải là do GPT viết hay không. Tuy nhiên, các công cụ này thường đưa ra đánh giá sai với tỉ lệ khác nhau.
 
-Nhóm tác giả từ đại học Stanford đã tiến hành nghiên cứu và phát hiện ra rằng các bài viết bị đánh giá sai thường là do người viết không sử dụng tiếng Anh như tiếng mẹ đẻ, và sử dụng các từ đơn giản và không đa dạng, dẫn đến việc bị đánh giá nhầm là do AI viết.
+Nhóm tác giả từ đại học Stanford đã tiến hành nghiên cứu và phát hiện ra rằng các bài viết thật sư do con người viết nhưng bị đánh giá sai thường là do người viết không sử dụng tiếng Anh như tiếng mẹ đẻ, và sử dụng các từ đơn giản và không đa dạng, dẫn đến việc bị đánh giá nhầm là do AI viết.
 
 Để kiểm tra giả thuyết này, nhóm tác giả đã sử dụng 91 bài luận TOEFL của người Trung Quốc và 88 bài luận của học sinh lớp 8 ở Mỹ. Họ cũng thử thay đổi bài viết bằng cách tăng độ đa dạng của từ vựng cho các bài luận của người Trung Quốc và sử dụng các từ vựng đơn giản cho các bài luận của học sinh Mỹ. Kết quả cho thấy rằng, các công cụ kiểm tra dựa vào tính đa dạng của từ vựng để đưa ra kết luận.
 
