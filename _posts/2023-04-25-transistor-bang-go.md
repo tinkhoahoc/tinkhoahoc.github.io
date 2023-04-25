@@ -28,7 +28,7 @@ Transistor bằng gỗ được tạo ra bằng cách loại bỏ các chất li
 So với transistor silic, transistor bằng gỗ to hơn và chậm hơn, nhưng có thể chứng minh được tính bền vững và tương thích sinh học cho một số ứng dụng điện tử trong nông nghiệp hoặc lâm nghiệp.
 
 
-> Liang, W., Yuksekgonul, M., Mao, Y., Wu, E. and Zou, J., 2023. [GPT detectors are biased against non-native English writers](https://doi.org/10.48550/arXiv.2304.02819). arXiv preprint arXiv:2304.02819.
+> Van Chinh Tran, Gabriella G. Mastantuoni, Marzieh Zabihipour, Lengwan Li, Lars Berglund, Magnus Berggren, Qi Zhou, and Isak Engquist 2023. [Electrical current modulation in wood electrochemical transistor](https://doi.org/10.1073/pnas.2218380120). Proceedings of the National Academy of Sciences, 120(18), p.e2218380120.
 
 
 
