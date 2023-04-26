@@ -6,7 +6,7 @@ subtitle: Nghiên cứu wildDISCO sử dụng công nghệ chiết xuất choles
 description: >-
   Bản đồ cơ thể chuột sử dụng công nghệ wildDISCO. Nguồn: DISCOTechnologies.
 image: >-
-  http://discotechnologies.org/main-bg-1.jpg
+  /assets/img/wilddisco.jpeg
 category: Sự sống
 tags:
   - sự sống
