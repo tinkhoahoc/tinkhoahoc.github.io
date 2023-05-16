@@ -2,7 +2,7 @@
 date: 2023-05-16
 layout: post
 title: Thói quen ngủ không đều có thể tăng nguy cơ tử vong
-subtitle: Một nghiên cứu mới trên 88.975 người tham gia của Lachlan Cribb từ Úc đã chỉ ra mối quan hệ giữa tính đều đặn của giấc ngủ và nguy cơ tử vong do các nguyên nhân khác nhau bao gồm bệnh tim mạch và ung thư.
+subtitle: Một nghiên cứu mới trên 88.975 người tham gia đã chỉ ra mối quan hệ giữa tính đều đặn của giấc ngủ và nguy cơ tử vong.
 description: >-
   Minh họa giấc ngủ. Nguồn: Pedro Simões (Wikimedia).
 image: >-
