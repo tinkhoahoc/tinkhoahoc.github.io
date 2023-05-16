@@ -29,7 +29,7 @@ Nghiên cứu này cho thấy tầm quan trọng của việc giữ cho giấc n
 
 <em>Ghi chú:</em> Bài viết được đăng tải trên arXiv chưa phải là bản cuối cùng và có thể đang chờ được bình duyệt ở một tạp chí khoa học.
 
-> Cribb, L., Sha, R., Yiallourou, S., Grima, N.A., Cavuoto, M., Baril, A.A. and Pase, M.P., 2023. [Sleep Regularity and Mortality: A Prospective Analysis in the UK Biobank[https://doi.org/10.1101/2023.04.14.23288550]. medRxiv, pp.2023-04.
+> Cribb, L., Sha, R., Yiallourou, S., Grima, N.A., Cavuoto, M., Baril, A.A. and Pase, M.P., 2023. [Sleep Regularity and Mortality: A Prospective Analysis in the UK Biobank)[https://doi.org/10.1101/2023.04.14.23288550]. medRxiv, pp.2023-04.
 
 
 
