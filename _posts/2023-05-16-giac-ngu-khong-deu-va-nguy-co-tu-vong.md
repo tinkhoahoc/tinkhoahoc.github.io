@@ -6,7 +6,7 @@ subtitle: Một nghiên cứu mới trên 88.975 người tham gia của Lachlan
 description: >-
   Minh họa giấc ngủ. Nguồn: Pedro Simões (Wikimedia).
 image: >-
-  https://commons.wikimedia.org/wiki/File:Sleeping_the_day_away_-_3087394718.jpg
+  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sleeping_the_day_away_-_3087394718.jpg/800px-Sleeping_the_day_away_-_3087394718.jpg?20090921053102
 category: Sự sống
 tags:
   - sự sống
